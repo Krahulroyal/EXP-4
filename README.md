@@ -41,12 +41,14 @@ PROCEDURE:
 
 # Half wave rectifier with filter:
 <img width="857" height="425" alt="image" src="https://github.com/user-attachments/assets/33ef9e63-b359-4670-8f65-d115e6262f43" />
+
 # Half wave rectifier without filter:
 <img width="837" height="377" alt="image" src="https://github.com/user-attachments/assets/ad6970fb-8c04-4849-81c5-3d5bd460fedd" />
 
 
 # Bridge rectifier with filter:
 <img width="881" height="401" alt="image" src="https://github.com/user-attachments/assets/5ac7c88a-b46a-403a-bba0-3ceca4b8086c" />
+
 # Bridge rectifier without filter:
 <img width="830" height="343" alt="image" src="https://github.com/user-attachments/assets/962cacfb-c8d0-47ac-ae04-6bbf9c539507" />
 
